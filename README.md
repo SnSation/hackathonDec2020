@@ -18,6 +18,7 @@ This is a browser application written solely in HTML, CSS, and JavaScript, so th
 ## Notes:
 - This was created as a browser application due to an assumption that one who does not understand HTML code may not understand the CLI.
 - It does not create a full HTML document in one step to allow those who would like to use the generated code as a snippet, rather than an entire document.
+- The CSS is unnecessary, and only there to improve readability. This application will work with just "ssg.js" and "ssg.html"
 
 ## Supports:
 - Markdown
